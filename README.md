@@ -14,11 +14,11 @@
 
 ЛАБОРАТОРНАЯ РАБОТА 2. МАССИВЫ В JAVASCRIPT
 
-[Задание 1.]()
+[Задание 1.](https://github.com/Prishletsova/WEB/blob/main/lab2_1.js)
 
-[Задание 2.]()
+[Задание 2.](https://github.com/Prishletsova/WEB/blob/main/lab2_2.js)
 
-[Задание 3.]()
+[Задание 3.](https://github.com/Prishletsova/WEB/blob/main/lab2_3.js)
 
 ------------------------------------
 
