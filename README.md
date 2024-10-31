@@ -24,10 +24,10 @@
 
 ЛАБОРАТОРНАЯ РАБОТА 3. ФУНКЦИИ В JAVASCRIPT
 
-[Задание 1.]()
+[Задание 1.](https://github.com/Prishletsova/WEB/blob/main/lab3_1.js)
 
-[Задание 2.]()
+[Задание 2.](https://github.com/Prishletsova/WEB/blob/main/lab3_2.js)
 
-[Задание 3.]()
+[Задание 3.](https://github.com/Prishletsova/WEB/blob/main/lab3_3.js)
 
 
