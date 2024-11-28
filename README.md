@@ -30,4 +30,10 @@
 
 [Задание 3.](https://github.com/Prishletsova/WEB/blob/main/lab3_3.js)
 
+------------------------------------
+
+ЛАБОРАТОРНАЯ РАБОТА 6. ВВЕДЕНИЕ В TENSORFLOW.JS
+
+
+
 
